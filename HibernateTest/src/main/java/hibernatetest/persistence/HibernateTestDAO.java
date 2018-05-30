@@ -8,10 +8,6 @@ public class HibernateTestDAO {
     @PersistenceContext(unitName = "hibernate-test")
     private EntityManager entityManager;
 
-    public void delete() {
-        entityManager.remove(null);
-    }
-
     public void delete(final HibernateTest entity) {
         entityManager.remove(entity);
     }

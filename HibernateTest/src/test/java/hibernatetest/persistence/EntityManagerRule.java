@@ -1,9 +1,3 @@
-/**
- * (c) Midland Software Limited 2018
- * Name     : EntityManagerRule.java
- * Author   : kilgallonj
- * Date     : 23 May 2018
- */
 package hibernatetest.persistence;
 
 import java.lang.reflect.Field;

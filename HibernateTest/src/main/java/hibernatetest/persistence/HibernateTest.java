@@ -1,9 +1,3 @@
-/**
- * (c) Midland Software Limited 2018
- * Name     : HibernateTest.java
- * Author   : kilgallonj
- * Date     : 23 May 2018
- */
 package hibernatetest.persistence;
 
 import java.util.UUID;
